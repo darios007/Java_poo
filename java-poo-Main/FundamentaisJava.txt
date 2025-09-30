@@ -1,0 +1,32 @@
+>se meu metodo é do tipo double ou do tipo long, qual é o retorno espeardo do meu metodo 
+
+>objeto pode importar biblitoecas para ajudar no tipo primitivo
+springboot
+
+
+>abstratas: classe única
+>classes não abstratas são chamadas de classes concretas
+
+> public class xxx extends yyy (extensão de classe yyy)
+
+> método != objeto
+objeto = classe toda (construtor, nome, atributos/membros (atributo tem modificador de acesso), métodos assessores e construtores (vazio ou com atributos); objeto é um "engradado de cerveja vazio"
+método = seriam os bonequinhos que se põe no agradado (objeto), enche ao se passar parâmetros (instâncias também). 
+método é um modelo ou molde para botar no mundo real e abstrair no mundo digital
+método tem : (nome, assinatura [nome e  TALVEZ parâmetro], corpo [definido pelo tipo primitivo])
+tudo dentro do colchete e do embrace é o corpo do método, sempre tem de retornar o tipo primitivo de sua assinatura (método)
+assinatura: modificador de acesso (nome, private, etc), tipo primitivo e nome, com ou não tendo parâmetro
+todo erro que você cometer no projeto dentro do terminal (log), irá aparecer o nome do seu projeto e a descrição.
+nunca deixe log warning em produção, é feio! PRODUÇÃO NÃO SE EXIBE DEBAIXO DO TAPETE
+
+Escopo de variável:
+altere a assinatura do método 
+mudar uma assinatura do método é impossível quando definida, impede a chance de dar ruim.
+
+supondo que queiramos criar uma folhaDePagamento, poderia-se ler a classe folhaDePagamento por transformando o método em estático (Além de implementar e chamar a mesma)
+retornar SOUT pede void ou String
+como o corpo do método vai saber o sal + val + horasExtra se não passou nenhum parâmetro?
+
+característica da classe pai dar algo pra classe filho de herdar
+
+diferença de gerente e desenvolvedor: formula do cálculo e o corpo do método (tem de entender conceito)
